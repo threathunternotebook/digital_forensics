@@ -1,0 +1,1 @@
+This repository contains digital forensics report example. All reports are based on ficticious events. These examples are to help a forensics investigator in the understanding how to format reports based on industry standards.
